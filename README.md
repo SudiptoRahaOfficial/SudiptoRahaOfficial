@@ -142,23 +142,23 @@ I believe software engineering is not only about making things work but also abo
 
 <p align="center">
 
-<a href="mailto:sudiptoraha.official@gmail.com">
+<a href="mailto:sudiptoraha.official@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/SudiptoRahaOfficial">
+<a href="https://github.com/SudiptoRahaOfficial" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.facebook.com/sudiptoraha.official">
+<a href="https://www.facebook.com/sudiptoraha.official" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook" />
 </a>
 
-<a href="https://www.instagram.com/sudiptoraha.official">
+<a href="https://www.instagram.com/sudiptoraha.official" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" />
 </a>
 
-<a href="https://sudiptoraha-official.netlify.app">
+<a href="https://sudiptoraha-official.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome" />
 </a>
 
