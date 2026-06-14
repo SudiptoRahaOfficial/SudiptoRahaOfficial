@@ -1,179 +1,256 @@
-<div align="center">
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Sudipto%20Raha&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Specialized&descAlignY=62&animation=fadeIn&section=header&color=0:071A52,50:2563EB,100:9333EA" />
 
-# Hi there, I'm Sudipto Raha 👋
-
-### Software Engineer | Backend Specialized
-
-<p>
-Building scalable, maintainable, and production-ready backend applications.
-</p>
-
-<p>
+<h1 align="center">
 <a href="https://github.com/SudiptoRahaOfficial">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Focused+Software+Engineer;Node.js+%7C+Express.js+%7C+MongoDB;Passionate+About+Clean+Architecture;Always+Learning+and+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Focused+Software+Engineer;Passionate+About+Clean+Architecture;Always+Learning+and+Building" alt="Typing SVG" />
 </a>
+</h1>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SudiptoRahaOfficial&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 </p>
 
-</div>
+---
+
+# 🚀 About Me
+
+I am a software engineer focused on building scalable, maintainable, and production-ready backend applications. I enjoy designing APIs, working with databases, solving complex problems, and continuously improving my understanding of software architecture and engineering best practices. I am passionate about clean code, scalability, maintainability, best practices & solve complex engineering problems. I am focused on building real-world & production-grade applications.
+
+My goal is to become an exceptional backend specialized software engineer by mastering both the fundamentals and the advanced principles behind modern software systems.
+
+### Currently Focusing on
+
+⚙️ Backend Engineering
+
+🏗️ Software Architecture
+
+📦 REST API Design
+
+🗄️ Database Design & Optimization
+
+🔐 Authentication & Authorization
+
+🚀 Scalable Application Development
+
+🧪 Testing & Quality Assurance
+
+📚 System Design
 
 ---
 
-## 🚀 About Me
-
-I am a software engineer focused on building scalable, maintainable, and production-ready backend applications. I enjoy designing APIs, working with databases, solving complex problems, and continuously improving my understanding of software architecture and engineering best practices.
-
-My goal is to become an exceptional backend engineer by mastering both the fundamentals and the advanced principles behind modern software systems.
-
-- 💻 Backend-focused Software Engineer
-- 🌱 Continuously learning software architecture, system design, and backend engineering
-- ⚡ Passionate about clean code, scalability, maintainability, and best practices
-- 🔍 Strong believer in understanding concepts deeply rather than memorizing solutions
-- 🎯 Focused on building real-world, production-ready applications
-
----
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+### Frontend Development
+
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query"/>
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 
 ### Backend Development
 
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-000?style=for-the-badge)
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
 
 ### Version Control
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+### Hosting & Deployment
+
+<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
 
 ### Tools & Technologies
 
-![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Advanced Node.js
-- Express.js Best Practices
-- MongoDB Optimization
-- Mongoose Internals
-- Authentication & Authorization
-- API Security
-- Design Patterns
-- System Design
-- Scalable Backend Architecture
-- Testing & Quality Assurance
+🔹 Advanced Node.js Internals
 
----
+🔹 Express.js Best Practices
 
-## 📂 Featured Projects
+🔹 MongoDB Performance Optimization
 
-### Project 1 — Project Name
+🔹 Mongoose Deep Dive
 
-Brief description of the project.
+🔹 Authentication & Authorization
 
-**Tech Stack:** Node.js, Express.js, MongoDB
+🔹 API Security
 
-🔗 Repository: https://github.com/yourusername/project-name
+🔹 Design Patterns
 
----
+🔹 System Design
 
-### Project 2 — Project Name
+🔹 Scalable Backend Architecture
 
-Brief description of the project.
+🔹 Testing Strategies
 
-**Tech Stack:** Node.js, Express.js, MongoDB
-
-🔗 Repository: https://github.com/yourusername/project-name
+🔹 CI/CD Fundamentals
 
 ---
 
-### Project 3 — Project Name
-
-Brief description of the project.
-
-**Tech Stack:** Node.js, Express.js, MongoDB
-
-🔗 Repository: https://github.com/yourusername/project-name
-
----
-
-## 🎯 Engineering Principles
-
-I strive to write software that is:
-
-- Clean
-- Readable
-- Maintainable
-- Scalable
-- Secure
-- Testable
-- Production Ready
-
-I believe software engineering is not only about making things work but also about making systems understandable, reliable, and easy to evolve.
-
----
-
-## 📈 GitHub Statistics
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SudiptoRahaOfficial&show_icons=true&theme=transparent" />
+<table width="80%">
+  <tr style="background-color:#080808c7;">
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudiptoRahaOfficial&layout=compact&theme=transparent" />
+  <tr>
+    <td>EXP Blog App</td>
+    <td>Production-ready blogging platform</td>
+    <td>Node.js, Express.js, MongoDB</td>
+  </tr>
+
+  <tr style="background-color:#24242499;">
+    <td>Authentication System</td>
+    <td>Secure auth implementation</td>
+    <td>JWT, Node.js</td>
+  </tr>
+
+  <tr>
+    <td>REST API Project</td>
+    <td>Scalable backend API</td>
+    <td>Express.js, MongoDB</td>
+  </tr>
+
+  <tr style="background-color:#24242499;">
+    <td>More Coming Soon...</td>
+    <td>Continuously building</td>
+    <td>🚀</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# 🏗️ Engineering Principles
+
+<table>
+<tr>
+<td>
+
+🧹 Clean Architecture
+
+🔧 Maintainable Code
+
+📈 Scalable Systems
+
+🔐 Security First
+
+🧪 Testability
+
+⚡ Reliability
+
+🚀 Production Readiness
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img
+          height="250"
+          src="https://github-readme-stats.vercel.app/api?username=SudiptoRahaOfficial&show_icons=true&theme=tokyonight&hide_border=true"
+        />
+      </td>
+      <td>
+        <img
+          height="270"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudiptoRahaOfficial&layout=compact&theme=tokyonight&hide_border=true"
+        />
+      </td>
+      <td>
+        <img
+          height="250"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=SudiptoRahaOfficial&theme=tokyonight&hide_border=true"
+        />
+      </td>
+    </tr>
+  </table>
+</p>
 
-<a href="mailto:sudiptoraha.official@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/SudiptoRahaOfficial" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.facebook.com/sudiptoraha.official" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook" />
-</a>
-
-<a href="https://www.instagram.com/sudiptoraha.official" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" />
-</a>
-
-<a href="https://sudiptoraha-official.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome" />
-</a>
-
+<p align="center">
+  <img
+    width="80%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SudiptoRahaOfficial&theme=tokyo-night&hide_border=true&area=true"
+  />
 </p>
 
 ---
 
-## 💡 Personal Motto
+# 🤝 Connect With Me
 
-> **"First understand why it works, then focus on making it better."**
+<p align="center">
+  <a href="mailto:sudiptoraha.official@gmail.com">
+    <img height="30" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SudiptoRahaOfficial">
+    <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sudiptoraha-official.netlify.app">
+    <img height="30" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sudiptorahaofficial">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/sudiptoraha.official">
+    <img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sudiptoraha.official">
+    <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+<br>
 <div align="center">
 
-### Thanks for visiting my profile 🚀
+### Feel free to ask, if any queries 💬 | Thanks for visiting my profile 🚀
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:071A52,50:2563EB,100:9333EA" />
