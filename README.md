@@ -137,7 +137,7 @@ My goal is to become an exceptional backend specialized software engineer by mas
 
 <div align="center">
 
-<table width="80%">
+<table width="90%">
   <tr style="background-color:#080808c7;">
     <th>Project</th>
     <th>Description</th>
@@ -175,10 +175,6 @@ My goal is to become an exceptional backend specialized software engineer by mas
 
 # 🏗️ Engineering Principles
 
-<table>
-<tr>
-<td>
-
 🧹 Clean Architecture
 
 🔧 Maintainable Code
@@ -193,37 +189,23 @@ My goal is to become an exceptional backend specialized software engineer by mas
 
 🚀 Production Readiness
 
-</td>
-</tr>
-</table>
-
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img
-          height="250"
-          src="https://github-readme-stats.vercel.app/api?username=SudiptoRahaOfficial&show_icons=true&theme=tokyonight&hide_border=true"
-        />
-      </td>
-      <td>
-        <img
-          height="270"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudiptoRahaOfficial&layout=compact&theme=tokyonight&hide_border=true"
-        />
-      </td>
-      <td>
-        <img
-          height="250"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=SudiptoRahaOfficial&theme=tokyonight&hide_border=true"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    width="32%"
+    src="https://github-readme-stats.vercel.app/api?username=SudiptoRahaOfficial&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="32%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudiptoRahaOfficial&layout=compact&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="32%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SudiptoRahaOfficial&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
@@ -241,23 +223,23 @@ My goal is to become an exceptional backend specialized software engineer by mas
   <a href="mailto:sudiptoraha.official@gmail.com">
     <img height="30" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/SudiptoRahaOfficial">
     <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://sudiptoraha-official.netlify.app">
     <img height="30" src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sudiptorahaofficial">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/sudiptoraha.official">
     <img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/sudiptoraha.official">
     <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
