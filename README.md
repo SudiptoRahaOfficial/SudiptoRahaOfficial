@@ -195,22 +195,11 @@ My goal is to become an exceptional backend specialized software engineer by mas
 
 <p align="center">
   <img
-    width="32%"
-    src="https://github-readme-stats.vercel.app/api?username=SudiptoRahaOfficial&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    width="32%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudiptoRahaOfficial&layout=compact&theme=tokyonight&hide_border=true"
-  />
-  <img
-    width="32%"
+    width="45%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=SudiptoRahaOfficial&theme=tokyonight&hide_border=true"
   />
-</p>
-
-<p align="center">
   <img
-    width="80%"
+    width="51%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=SudiptoRahaOfficial&theme=tokyo-night&hide_border=true&area=true"
   />
 </p>
