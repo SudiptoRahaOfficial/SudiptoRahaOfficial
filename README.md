@@ -191,18 +191,6 @@ My goal is to become an exceptional backend specialized software engineer by mas
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    width="80%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SudiptoRahaOfficial&theme=tokyo-night&hide_border=true&area=true"
-    alt="Sudipto Raha's GitHub activity graph"
-  />
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
